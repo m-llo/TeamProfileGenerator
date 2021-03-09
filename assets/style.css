@@ -1,0 +1,29 @@
+#header{
+    background-color: #e84855;
+    color: #ffffff;
+    font-size: 32pt;
+    height: 200px;
+    
+}
+
+#main{
+    background-color: #ccc7c8;
+  
+}
+
+.id{
+width: 18rem;
+
+
+}
+
+.title{
+background-color: rgb(45, 109, 230);
+color: #ffffff;
+width: auto ;
+}
+
+.headinfo{
+color: #ffffff;
+width: auto ;
+}
