@@ -18,12 +18,6 @@ class Intern extends Employee {
     getRole() {
         return "Intern"
     }
-    printInfo() {
-        console.log("intern name: ", this.name)
-        console.log("intern email: ", this.email)
-        console.log("intern id: ", this.id)
-        console.log("intern school: ", this.school)
-    }
 }
 
 module.exports = Intern;

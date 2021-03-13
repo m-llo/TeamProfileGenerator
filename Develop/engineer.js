@@ -18,12 +18,6 @@ class Engineer extends Employee {
     getRole() {
         return "Engineer"
     };
-    printInfo() {
-        console.log("eng name: ", this.name)
-        console.log("eng email: ", this.email)
-        console.log("eng id: ", this.id)
-        console.log("eng github: ", this.github)
-    }
 }
 
 module.exports = Engineer;

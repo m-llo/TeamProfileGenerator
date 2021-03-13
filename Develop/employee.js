@@ -13,7 +13,7 @@ getId(){
 getEmail(){
     return this.email
 };
-getrole(){
+getRole(){
     return "employee"
 }
 }

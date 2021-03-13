@@ -17,12 +17,6 @@ class Manager extends Employee {
     getRole() {
         return "Manager"
     }
-    printInfo() {
-        console.log("mgr name: ", this.name)
-        console.log("mgr email: ", this.email)
-        console.log("mgr id: ", this.id)
-        console.log("mgr number: ", this.officeNum)
-    }
 }
 
 
